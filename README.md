@@ -1,4 +1,6 @@
 # orpa-nodes [![Build Status](https://travis-ci.org/parodotdev/orpa-nodes.svg?branch=master)](https://travis-ci.org/parodotdev/orpa-nodes)
+## Getting started
+Refer to  [orpa-setup](https://github.com/parodotdev/orpa-setup) project for more details.
 ### Contains the nodes that are part of the OPAL Framework
 
 * [orpa-node-msexcel](https://github.com/parodotdev/orpa-nodes/tree/master/packages/orpa-node-msexcel) 
